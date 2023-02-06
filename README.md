@@ -7,9 +7,9 @@
 
 ## Install and use
 - Clone the repo
-- run composer install
-- run npm install
-- run npm run build or npm run dev
+- run ```composer install```
+- run ```npm install```
+- run ```npm run build``` or ```npm run dev```
 
 
 ## Project Code
