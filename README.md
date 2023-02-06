@@ -19,7 +19,7 @@
 
 ### Model
 - [Item](app/Models/Item.php)
-- [Price](app/Models/Price.php
+- [Price](app/Models/Price.php)
 
 ### Database
 - [ItemFactory](database/factories/ItemFactory.php)
